@@ -1,0 +1,6 @@
+{
+  //preset-env conver as funcionalidades para o navegador
+  "presets": [
+    "@babel/preset-env"
+  ]
+}
